@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, StyleSheet, View, Button } from 'react-native';
 
 const ComponentsScreen = () => {
-    const myName = <Text style={{ fontSize: 20 }}>My name is Johnny</Text>;
+    const myName = <Text style={{ textAlign: "center", fontSize: 20 }}>My name is Johnny</Text>;
 
     return (
         <View>
@@ -14,7 +14,9 @@ const ComponentsScreen = () => {
 
 const styles = StyleSheet.create({
     textStyle: {
-        fontSize: 45
+        fontSize: 45,
+        textAlign: "center",
+        marginBottom: 75
     }
 });
 

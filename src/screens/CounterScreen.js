@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, Text, StyleSheet, Button, TouchableOpacity } from 'react-native';
+import { View, Text, StyleSheet, Button } from 'react-native';
 
 var counter = 0;
 
@@ -13,7 +13,7 @@ const CounterScreen = () => {
             <Button title="Decrease" onPress={() => {
                 setCounter(counter - 1);
             }} />
-            <Text style={styles.textSize}># of times I thought about Jessica:     {counter}</Text>
+            <Text style={styles.textSize}>{counter}</Text>
         </View>
     );
 };

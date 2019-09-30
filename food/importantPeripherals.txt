@@ -1,0 +1,8 @@
+Client ID:
+Grai3H8AuWU2-XeX-xCf8w
+
+API Key:
+QXbNcEWjP444P8PaFqkoDDf4_taEEMNdZxY5Wuz6oA3OuvzRpfOr1JOCJn6Cf_4HFJFA4-3C04J-ldhQotNY7V-3aScFDq77S4TfDuWhdCzSjbLB67NnHHqFRkSRXXYx
+
+
+Site for Icons: https://expo.github.io/vector-icons/
